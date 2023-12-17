@@ -4,4 +4,6 @@ It’s a Spring Based software application which is capable of storing and manag
 Description:
 o In SpringREST there is no view pages.
 o SpringREST framework for server-side application.
-o Postman is 
+o Repository class for connection with database using 4 classes (controller, service, repository and POJO)
+o Hibernate for Designing a Back-end logics
+o To test the code used JSON Language
